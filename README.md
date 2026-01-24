@@ -8,6 +8,6 @@
 
 ⛏️ - If I do say so myself, I am also pretty bloody good at making Modpacks with FancyMenu and SpiffyHUD layouts for Minecraft Java Edition
 
-🧈 - I make a very ambitious Minecraft performance and QoL modpack and soon to be launcher called [Butterium](https://modrinth.com/modpack/butterium) with all-custom GUI, HUD and functionality
+🧈 - I and everyone at [BUTR Studios](https://github.com/BUTR-Studios/) make a very ambitious Minecraft performance and QoL modpack and soon to be launcher called [Butterium](https://modrinth.com/modpack/butterium) with all-custom GUI, HUD and functionality
 
 Tysm [Keksuccino](https://github.com/keksuccino) for [FancyMenu](https://modrinth.com/mod/fancymenu)
