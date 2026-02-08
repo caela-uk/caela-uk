@@ -1,4 +1,4 @@
-![image](https://github.com/caela-uk/caela-uk/blob/main/banner-short.png?raw=true)
+![image](https://github.com/caela-uk/caela-uk/blob/main/banner-ultrashort.png?raw=true)
 
 ## Oi- ey up 👅
 
