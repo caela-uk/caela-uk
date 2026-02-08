@@ -1,4 +1,6 @@
-## Oi mate, ey up 👋
+![image](https://github.com/caela-uk/caela-uk/blob/main/banner-short.png?raw=true)
+
+## Oi- ey up 👅
 
 🇬🇧 - I am situated in England, as you might be able to tell from my delightful vocabulary
 
