@@ -1,3 +1,5 @@
+<details><summary>Read me!<summary>
+
 ## Oi- ey up 👅
 
 🇬🇧 - I am situated in England, as you might be able to tell from my delightful vocabulary- though I'm also half Español for anyone who cares lol
@@ -12,3 +14,4 @@
 
 Tysm [Keksuccino](https://github.com/keksuccino) for [FancyMenu](https://modrinth.com/mod/fancymenu)
 > He follows this acc btw xD
+</details>
