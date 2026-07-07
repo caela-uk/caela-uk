@@ -2,7 +2,7 @@
 
 ## Oi- ey up 👅
 
-🇬🇧 - I am situated in England, as you might be able to tell from my delightful vocabulary- though I'm also half Español for anyone who cares. Right here 😑
+🇬🇧 - I am caela.uk, situated in England, as you might be able to tell from my delightful vocabulary- though I'm also half Español for anyone who cares. Right here 😑
 
 💻 - You see, I'm not all that *great* with many programming languages *(Python is my best lmfao)* but I am okay at overall software like Linux and stuff, my skills are mainly in graphic design, UX and making cohesive ecosystems and brands (BUTR 💛). I main Arch btw.
 
