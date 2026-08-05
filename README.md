@@ -1,16 +1,17 @@
-![image](https://github.com/caela-uk/caela-uk/blob/main/banner-ultrashort.png?raw=true)
+![image](https://github.com/caela-uk/caela-uk/blob/main/banner-ultrashort-round.png?raw=true)
+<a href="https://modrinth.com/user/caela">
+  <img src="https://github.com/caela-uk/caela-uk/blob/main/download-count-26-08.png?raw=true" alt="135,000+ Downloads on Modrinth" width="180">
+</a>
 
 ## Oi- ey up 👅
 
-🇬🇧 - I am caela.uk, situated in England, as you might be able to tell from my delightful vocabulary- though I'm also half Español for anyone who cares. Right here 😑
+🇬🇧 - I am caela.uk, situated in England- though I'm also half Español for those who care. Right here 😑
 
-💻 - You see, I'm not all that *great* with many programming languages *(Python is my best lmfao)* but I am okay at overall software like Linux and stuff, my skills are mainly in graphic design, UX and making cohesive ecosystems and brands (BUTR 💛). I main Arch btw.
+You see, I'm not all that *great* with many programming languages *(Python is still my best lmfao)* but I am okay at overall software like Linux systems and stuff; my skills are mainly in graphic design, UX and making cohesive "ecosystems" of sorts (BUTR 💛). Linux for life.
 
-🖌️ - I'm pretty good with tools like Figma and graphic design overall, while I'm not capable of doing anything too complex _(I don't illustrate with no stylus things)_, I do have a very good eye for what looks good and doesn't- (*cough cough* Microsoft I hate you) it comes naturally to me but apparently that's not normal so whatever 🤷‍♀️ people tell me I'm good at what I do.
+🖌️ - I'm pretty good with tools like Figma and graphic design overall, while I'm not capable of doing anything too complex _(I don't illustrate with no stylus things)_, I apparently have a very good eye for what looks good and doesn't- (*cough cough* Microsoft I hate you) 🤷‍♀️ people tell me I'm good at what I do, so decide for yourself.
 
-⛏️ - If I do say so myself, I am also pretty bloody good at making Modpacks with FancyMenu and SpiffyHUD layouts for Minecraft Java - I do little bits of commissioned work in that community and love to *try* help out Keks with my feedback on the UX and flow of FM (mostly in the Discord these days, mod btw)
-
-🧈 - I and everyone at [BUTR Studios](https://github.com/BUTR-Studios/) make a very ambitious Minecraft performance and QoL modpack and soon to be launcher called [Butterium](https://modrinth.com/modpack/butterium) with all-custom GUI, HUD and functionality. There is more though- we are trying to create a whole BUTR ecosystem for Minecraft with social, sharing and hosting features/integration.
+Back in the day (not long ago), I was also pretty bloody good at making Modpacks with FancyMenu and SpiffyHUD layouts for Minecraft Java - I still do little bits of commissioned work in that community and love to *try* help out Keks with my feedback on the UX and flow of FM (mostly in the Discord these days, mod btw). My single largest project was a very ambitious Minecraft performance and QoL modpack called [Butterium](https://github.com/BUTR-Studios/Modpacks) with all-custom GUI, HUD and functionality. Though in recent years I have significantly lost interest in the game and Mojang have kept pushing more and more breaking changes.
 
 Tysm [Keksuccino](https://github.com/keksuccino) for [FancyMenu](https://modrinth.com/mod/fancymenu)
-> He follows this acc btw xD
+> Yes, the g himself follows me
