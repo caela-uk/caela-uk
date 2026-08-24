@@ -1,6 +1,6 @@
-![image](https://github.com/caela-uk/caela-uk/blob/main/banner-ultrashort-round.png?raw=true)
+![image](https://github.com/caela-uk/caela-uk/blob/main/Banners/Dark/Round/short-5px.png?raw=true)
 <a href="https://modrinth.com/user/caela.uk">
-  <img src="https://github.com/caela-uk/caela-uk/blob/main/download-count-26-08.png?raw=true" alt="135,000+ Downloads on Modrinth" width="180">
+  <img src="https://github.com/caela-uk/caela-uk/blob/main/Extras/Badges/135K.png?raw=true" alt="135,000+ Downloads on Modrinth" width="180">
 </a>
 
 ## Oi- ey up 👅
