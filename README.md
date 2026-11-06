@@ -1,4 +1,4 @@
-![caela.uk banner](https://github.com/caela-uk/caela-uk/blob/main/Banners/Silver/Round/short-5px-stroke1px.png?raw=true)
+![caela.uk banner](https://github.com/caela-uk/caela-uk/blob/main/Banners/Silver/Round/medium-5px-stroke1px.png?raw=true)
 <a href="https://modrinth.com/user/caela.uk">
   <img src="https://github.com/caela-uk/caela-uk/blob/main/Extras/Badges/155K.png?raw=true" alt="155,000+ Downloads on Modrinth" width="180">
 </a>
