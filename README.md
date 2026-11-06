@@ -7,7 +7,7 @@
 
 🇬🇧 - I am caela.uk, situated in England- I'm also half Español, for those who care.
 
-You see, I'm not all that *great* with many programming languages *(Python is still my best lmfao)* but I'd say I'm good with software (e.g. Linux systems, servers, etc) and hardware (of course); my skills are mainly in design and *just a little bit* of UX.
+You see, I'm not all that *great* with many programming languages *(Python is still my best lmfao)* but I'd say I'm good with software (e.g. Linux systems, servers, etc.) and hardware (of course); my skills are mainly in design and *just a little bit* of UX.
 
 🖌️ - I'm pretty good with tools like Figma and just graphic design overall, while I'm not capable of doing anything too complex because I tend to work with shapes and vector as of right now _(I don't use a stylus, I'm no artist)_, I apparently have an alright eye for what looks good and doesn't- (*cough cough* Microsoft I hate you) 🤷‍♀️ so decide for yourself.
 
